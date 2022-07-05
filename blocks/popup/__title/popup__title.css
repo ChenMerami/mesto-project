@@ -1,4 +1,4 @@
-.card__title {
+.popup__title {
   margin: 0;
   padding: 0 0 43px 0;
   font-family: "Inter", Arial, Helvetica, sans-serif;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 620px) {
-  .card__title {
+  .popup__title {
     font-size: 18px;
     padding-bottom: 71px;
     padding-top: 4px;

@@ -1,4 +1,4 @@
-.card__submit-button {
+.popup__submit-button {
   background-color: black;
   border: none;
   height: 50px;
@@ -12,12 +12,12 @@
   color: #ffffff;
 }
 
-.card__submit-button:hover {
+.popup__submit-button:hover {
   opacity: 0.8;
 }
 
 @media screen and (max-width: 620px) {
-  .card__submit-button {
+  .popup__submit-button {
     font-size: 14px;
     height: 46px;
   }

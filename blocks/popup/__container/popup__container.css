@@ -1,4 +1,4 @@
-.card {
+.popup__container {
   width: 358px;
   height: 258px;
   background-color: #fff;
@@ -7,11 +7,11 @@
   flex-direction: column;
   position: relative;
   padding: 36px;
-  margin-top: -170px;
+  margin-top: -258px;
 }
 
 @media screen and (max-width: 620px) {
-  .card {
+  .popup__container {
     width: 238px;
     height: 278px;
     padding: 22px;

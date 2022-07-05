@@ -1,10 +1,14 @@
 .place__like-button {
-  display: inline-block;
-  padding: 0 18px 0 0;
-  margin: 0;
+  display: block;
+  width: 22px;
+  height: 19px;
+  padding: 0;
+  margin: 0 18px 0 0;
   background-color: #fff;
   border: none;
   cursor: pointer;
+  background-image: url("../../../images/heart-icon.svg");
+  background-size: contain;
 }
 
 .place__like-button:hover {
