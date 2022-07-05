@@ -19,5 +19,6 @@
 @media screen and (max-width: 620px) {
   .card__submit-button {
     font-size: 14px;
+    height: 46px;
   }
 }
