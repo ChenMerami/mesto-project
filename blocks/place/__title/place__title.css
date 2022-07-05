@@ -1,8 +1,7 @@
 .place__title {
-  display: inline-block;
   margin: 0;
-  padding: 0 0 0 18px;
-  max-width: 224px;
+  padding: 0;
+  max-width: 218px;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 900;
