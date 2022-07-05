@@ -6,6 +6,10 @@
   justify-content: center;
   align-items: center;
   background-color: rgba(0, 0, 0, 0);
+  background-image: url("../../../images/plus-icon.svg");
+  background-size: 22px;
+  background-position: center;
+  background-repeat: no-repeat;
   border: 2px solid #fff;
   cursor: pointer;
 }
@@ -18,5 +22,6 @@
   .profile__add-button {
     margin-left: 0;
     width: 100%;
+    background-size: 16px;
   }
 }

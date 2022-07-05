@@ -7,6 +7,7 @@
   font-size: 18px;
   line-height: 1.22;
   color: #ffffff;
+  max-width: 335px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
@@ -20,6 +21,7 @@
 
 @media screen and (max-width: 620px) {
   .profile__occupation {
+    max-width: 200px;
     padding-bottom: 33px;
     font-size: 14px;
   }

@@ -7,6 +7,7 @@
   font-size: 42px;
   line-height: 1.14;
   color: #ffffff;
+  max-width: 300px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
@@ -20,7 +21,8 @@
 
 @media screen and (max-width: 620px) {
   .profile__name {
-    padding-left: 26px;
+    max-width: 190px;
+
     padding-bottom: 6px;
     font-size: 27px;
     line-height: 1.22;
