@@ -1,0 +1,23 @@
+.card__submit-button {
+  background-color: black;
+  border: none;
+  height: 50px;
+  cursor: pointer;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.card__submit-button:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 620px) {
+  .card__submit-button {
+    font-size: 14px;
+  }
+}

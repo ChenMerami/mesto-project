@@ -1,0 +1,25 @@
+.card__close-button {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: -22px;
+  right: -22px;
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
+
+.card__close-button:hover {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 620px) {
+  .card__close-button {
+    width: 20px;
+    height: 20px;
+    top: -16px;
+    right: 0;
+  }
+}

@@ -1,0 +1,12 @@
+.place__like-button {
+  display: inline-block;
+  padding: 0 18px 0 0;
+  margin: 0;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.place__like-button:hover {
+  opacity: 0.5;
+}
